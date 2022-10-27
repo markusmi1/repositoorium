@@ -1,0 +1,24 @@
+body{
+    background-color: green;
+    background-image: url('https://www.sportservice.ee/wp-content/uploads/2016/09/Tennisev-rksingle1.jpg');
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: center;
+
+}
+h1{
+    color: white;
+    font-size:large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    border: 10px black dashed;
+    height: 100px;
+    width: 300px;
+}
+table, th, td{
+    width: 40%;
+    border: 2px solid black;
+    border-color: aqua;
+}
